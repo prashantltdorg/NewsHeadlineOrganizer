@@ -1,0 +1,11 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+data/news_data.json
+data/news_data.json.corrupt
+reports/*
+!reports/.gitkeep
+static/*.png
+.pytest_cache/
